@@ -1,5 +1,6 @@
 import React from "react";
 import "./HomePage.css";
+import Navbar from "../../components/Navbar/Navbar"
 import Welcome from "../../components/Welcome/Welcome";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
@@ -12,9 +13,10 @@ function HomePage() {
   return (
     <div className="App"
       style={{
-        backgroundColor: isBackgroundDark ? "#3282b8" : "light",
+        backgroundColor: isBackgroundDark ? "#11999e" : "light",
       }}
     >
+      <Navbar/>
       <Welcome/>
     </div>
   );
