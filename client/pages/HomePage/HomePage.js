@@ -1,5 +1,6 @@
 import React from "react";
 import "./HomePage.css";
+import Welcome from "../../components/Welcome/Welcome";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 import Container from "react-bootstrap/Container";
@@ -14,7 +15,7 @@ function HomePage() {
         backgroundColor: isBackgroundDark ? "#3282b8" : "light",
       }}
     >
-      
+      <Welcome/>
     </div>
   );
 }
