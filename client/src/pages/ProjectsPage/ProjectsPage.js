@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import "./MeetTeam.css";
 import Navbar from "../../components/Navbar/Navbar"
 import AboutCard from "../../components/AboutCard/AboutCard"

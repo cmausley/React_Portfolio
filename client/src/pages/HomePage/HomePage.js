@@ -3,7 +3,8 @@ import "./HomePage.css";
 import Navbar from "../../components/Navbar/Navbar"
 import Welcome from "../../components/Welcome/Welcome";
 import AboutCard from "../../components/AboutCard/AboutCard";
-import Footer from "../../components/Footer/Footer"
+import Footer from "../../components/Footer/Footer";
+import Card from "../../components/Card/Card";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 import Container from "react-bootstrap/Container";
@@ -48,6 +49,9 @@ function HomePage() {
         </Row>
 
       </Container>
+      <Card/>
+
+      <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/16g7PLQGxmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       <Footer/>
     </div>
