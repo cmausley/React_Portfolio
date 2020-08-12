@@ -6,7 +6,7 @@ function AboutCard (props) {
     <div className="animate__animated animate__fadeInUp">
       <div
         className="card"
-        style={{ minHeight: "450px", marginBottom: "30px", backgroundColor: "#e4f9f5"}}
+        style={{ minHeight: "500px", marginBottom: "30px", backgroundColor: "#e4f9f5", border: "20px solid #30e3ca"}}
       >
         <img
           src={props.image}

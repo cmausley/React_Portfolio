@@ -5,7 +5,6 @@ import "./Navbar.css";
 function Navbar() {
   return (
     <div>
-      <div></div>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <Link to="/" className="navbar-brand">
           About

@@ -51,7 +51,7 @@ function HomePage() {
       </Container>
       <Card/>
 
-      <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/16g7PLQGxmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe style={{border: "20px solid #30e3ca"}} class="video" width="560" height="315" src="https://www.youtube.com/embed/16g7PLQGxmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       <Footer/>
     </div>
