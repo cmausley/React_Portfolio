@@ -22,9 +22,9 @@ function Navbar() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav">
-            <a className="nav-item nav-link" href="#">
+            <Link to="/projects-page" className="nav-item nav-link">
               Projects
-            </a>
+            </Link>
             <Link to="/contact-page" className="nav-item nav-link">
               Contact
             </Link>

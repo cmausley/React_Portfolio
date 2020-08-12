@@ -1,0 +1,50 @@
+[
+    {
+      "projectimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+      "imagedescription": "react",
+      "projecttitle": "React Employee Directory",
+      "projectdescription": "A directory of organized employees created using React.js",
+      "link1": "https://github.com/cmausley/React-Employee-Directory",
+      "link2": "https://react-directory-ausley.herokuapp.com/"
+    },
+    {
+        "projectimage": "https://www.publicdomainpictures.net/pictures/270000/velka/budget-for-new-ideas.jpg",
+        "imagedescription": "budget",
+        "projecttitle": "Check Yourself",
+        "projectdescription": "An application built to help users keep track of a monthly budget.",
+        "link1": "https://github.com/cmausley/Check-Yourself",
+        "link2": "https://jp-project2.herokuapp.com/"
+      },
+      {
+        "projectimage": "https://www.publicdomainpictures.net/pictures/270000/nahled/vegetables-and-fruit.jpg",
+        "imagedescription": "vegetables",
+        "projecttitle": "Where's My Veggie?",
+        "projectdescription": "An application connecting users with local farmers and producers.",
+        "link1": "https://github.com/cmausley/Wheres-My-Veggie_Project",
+        "link2": "https://cristianmontenegrop.github.io/07Project-Where-s-my-veggie.com/"
+      },
+      {
+        "projectimage": "https://www.maxpixel.net/static/photo/1x/Community-Together-Cooperation-Businessmen-Team-2651913.png",
+        "imagedescription": "team",
+        "projecttitle": "Team Profile Generator",
+        "projectdescription": "A command-line-interface application where the user can generate a team profile webpage for their office.",
+        "link1": "https://github.com/cmausley/Team-Profile-Generator-Final",
+        "link2": "https://cmausley.github.io/Team-Profile-Generator-Final/"
+      },
+      {
+        "projectimage": "https://farm8.static.flickr.com/7252/7027596629_1b17209fa6.jpg",
+        "imagedescription": "budget",
+        "projecttitle": "Online/Offline Budget Tracker",
+        "projectdescription": "Users can add expenses and deposits to their budget with or without a connection online.",
+        "link1": "https://github.com/cmausley/Online-Offline-Budget-Tracker",
+        "link2": "https://budget-tracker-ausley.herokuapp.com/"
+      },
+      {
+        "projectimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Man_on_an_Exercise_Bike_Cartoon.svg/1280px-Man_on_an_Exercise_Bike_Cartoon.svg.png",
+        "imagedescription": "exercise",
+        "projecttitle": "Fitness Tracker",
+        "projectdescription": "An exercise tracker created with Mongo database, Mongoose schema and handle routes with Express.",
+        "link1": "https://github.com/cmausley/Fitness-Tracker",
+        "link2": "https://fitness-tracker-ausley.herokuapp.com/?id=5f0d18863b35140017e490c4"
+      }
+  ]
