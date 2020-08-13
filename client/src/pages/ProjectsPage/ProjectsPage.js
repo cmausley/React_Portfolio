@@ -6,6 +6,7 @@ import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 import Container from "react-bootstrap/Container";
 import projects from "./projects.json";
+import ResumeCard from "../../components/ResumeCard/ResumeCard"
 import Footer from "../../components/Footer/Footer";
 import "../../App.css"
 
@@ -24,6 +25,13 @@ function ProjectsPage() {
            <Navbar/>
 
            <Container>
+
+        <Row>
+          <Col>
+          <ResumeCard/>
+          </Col>
+        </Row>
+
         <Row>
           <Col>
             <ProjectCard 
