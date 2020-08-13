@@ -2,15 +2,9 @@
 
 ## Description
 
-For this project, I created a employee directory with React. This assignment required me to break up my application's UI into components, manage component state, and respond to user events.
+For this project, I created my own personal portfolio using React.js.
 
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
-
-So in this app, the user is able to view their entire employee directory at once so that they have quick access to their information.
-
-When the user loads the page, a table of employees renders.
-
-The user can also sort the employees by name and date of birth.
+I'm passionate about front end web development, and enjoyed showcasing my own talents through a particular passion: React.js
 
 ## Table of Contents
 - [React Portfolio](#react-portfolio)
@@ -25,29 +19,29 @@ The user can also sort the employees by name and date of birth.
 ## Usage
 Visit the deployed Heroku link [here.](https://react-directory-ausley.herokuapp.com/)
 
-In order to filter employees by name, type a name into the search bar.
-
-In order to sort the employee list by DOB, click on that category.
+Learn more about me!
 
 ## Finished Product
-View the deployed application via Heroku [here.](https://react-directory-ausley.herokuapp.com/)
+View the deployed application via Heroku [here.](https://ausley-resume.herokuapp.com/)
 
-View a brief demo of the application [here:](https://youtu.be/mBUGKUbnmNU)
+View a brief demo of the portfolio [here:](https://youtu.be/oRSzFiCByxU)
 
-![Example](./react1.JPG)
+![Example](./assets/portfolio1.JPG)
+![Example](./assets/portfolio2.JPG)
+![Example](./assets/portfolio3.JPG)
+![Example](./assets/portfolio4.JPG)
 
 ## Technologies
 * HTML
 * CSS
 * JavaScript
-* React
-* UIKit
+* React.js
+* JSON
 * Create React App
-* Axios
 
 ## Questions
 ​
-If you have any questions about the repo, please contact me:
+If you have any questions about me and my portfolio, please contact me:
 
 On GitHub: [cmausley](https://github.com/cmausley) | Via Email: christinamausley@gmail.com
 
