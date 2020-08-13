@@ -33,7 +33,9 @@ View a brief demo of the portfolio [here:](https://youtu.be/oRSzFiCByxU)
 
 ## Technologies
 * HTML
+* Bootstrap
 * CSS
+* Animate.css
 * JavaScript
 * React.js
 * JSON
