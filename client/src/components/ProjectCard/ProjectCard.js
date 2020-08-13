@@ -4,7 +4,7 @@ function ProjectCard (props) {
 
   return (
     <div className="animate__animated animate__fadeInUp">
-      <div className="card" style={{height: "500px", marginTop: "10px", marginBottom: "10px"}}>
+      <div className="card" style={{height: "500px", marginTop: "10px", marginBottom: "10px", border: "10px solid #30e3ca"}}>
         <img
           className="card-img-top" 
           src={props.projectimage}
@@ -15,10 +15,10 @@ function ProjectCard (props) {
           <p className="card-text">{props.projectdescription}</p>
         </div>
         <div className="card-body">
-          <a href={props.link1} className="card-link">
+          <a href={props.link1} target="_blank" className="card-link">
             Project
           </a>
-          <a href={props.link2} className="card-link">
+          <a href={props.link2} target="_blank" className="card-link">
             Deployed App
           </a>
         </div>
