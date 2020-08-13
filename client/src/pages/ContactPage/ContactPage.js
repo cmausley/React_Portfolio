@@ -12,7 +12,7 @@ function ContactPage() {
 
         <div
           style={{
-            backgroundColor: isBackgroundDark ? '#3282b8' : 'light',
+            backgroundColor: isBackgroundDark ? '#11999e' : 'light',
           }}
         >
 

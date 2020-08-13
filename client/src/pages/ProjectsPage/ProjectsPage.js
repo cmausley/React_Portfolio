@@ -19,7 +19,7 @@ function ProjectsPage() {
         <div
         className= "App"
           style={{
-            backgroundColor: isBackgroundDark ? '#3282b8' : 'light',
+            backgroundColor: isBackgroundDark ? '#11999e' : 'light',
           }}
         >
            <Navbar/>

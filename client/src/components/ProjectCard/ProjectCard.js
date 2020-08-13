@@ -4,7 +4,7 @@ function ProjectCard (props) {
 
   return (
     <div className="animate__animated animate__fadeInUp">
-      <div className="card" style={{height: "500px", marginTop: "10px", marginBottom: "10px", border: "10px solid #30e3ca"}}>
+      <div className="card" style={{height: "500px", marginTop: "10px", marginBottom: "10px", border: "10px solid #30e3ca", backgroundColor: "#e4f9f5"}}>
         <img
           className="card-img-top" 
           src={props.projectimage}
