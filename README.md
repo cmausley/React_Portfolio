@@ -25,7 +25,7 @@ Learn more about me!
 View the deployed application via Heroku [here.](https://ausley-resume.herokuapp.com/)
 
 View a brief demo of the portfolio [here:](https://youtu.be/oRSzFiCByxU)
-
+[](https://ausley-resume.herokuapp.com/)
 ![Example](./assets/portfolio1.JPG)
 ![Example](./assets/portfolio2.JPG)
 ![Example](./assets/portfolio3.JPG)
